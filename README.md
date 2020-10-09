@@ -4,7 +4,7 @@ In this notebook, we will predict the score based on hours they are reading. Te 
 
 1) Import important libraries such as pandas, numpy for mathematical approach and for data visualization we will import libraries as matplotlib.pyplot and seaborn.
 
-2) Then we will read the data from given link [link text itself]:http://bit.ly/w-data
+2) Then we will read the data from given link [link text itself]:(http://bit.ly/w-data)
 
 3) After that we will get the statistics of the data and find if there are any null values in the data.
 
